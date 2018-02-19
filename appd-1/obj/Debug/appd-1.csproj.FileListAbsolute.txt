@@ -1,0 +1,6 @@
+c:\users\nucle\documents\visual studio 2017\Projects\appd-1\appd-1\bin\Debug\appd-1.exe.config
+c:\users\nucle\documents\visual studio 2017\Projects\appd-1\appd-1\bin\Debug\appd-1.exe
+c:\users\nucle\documents\visual studio 2017\Projects\appd-1\appd-1\bin\Debug\appd-1.pdb
+c:\users\nucle\documents\visual studio 2017\Projects\appd-1\appd-1\obj\Debug\appd-1.csprojResolveAssemblyReference.cache
+c:\users\nucle\documents\visual studio 2017\Projects\appd-1\appd-1\obj\Debug\appd-1.exe
+c:\users\nucle\documents\visual studio 2017\Projects\appd-1\appd-1\obj\Debug\appd-1.pdb
